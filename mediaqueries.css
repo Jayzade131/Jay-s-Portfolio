@@ -107,4 +107,7 @@
         position: relative;
         margin-top: 0;
     }
+    #pro2img {
+        height: 265px;
+    }
 }
